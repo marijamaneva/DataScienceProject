@@ -19,7 +19,7 @@ The workflow contains the following steps:
 - use Spark to test hypotheses on big data
 - draw conclusions from findings
 
-Datased used:
+Dataset used:
 
 IMdb dataset
 https://www.kaggle.com/datasets/ebiswas/imdb-review-dataset

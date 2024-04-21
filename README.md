@@ -1,4 +1,4 @@
-# DataScienceProject
+# Movie Reviews - Data Science Project
 (group project)
 
 
